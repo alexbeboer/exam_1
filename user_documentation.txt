@@ -1,0 +1,4 @@
+The fuction works by taking in a numeric grade which is given by the user.
+After Entering the grade, the function stores the grade as a variable.
+The variable is compared to a number which determines the letter grade that they recieve.
+If the grade is below a certain number then it outputs 'Fail'
